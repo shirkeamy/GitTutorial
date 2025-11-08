@@ -4,3 +4,17 @@ Hello Git
 3. git commit   save version
 4. git log      commit history
 5. git diff     compare changes
+
+Branching and mearging
+
+1. git branch <Branch name> - Crate branch
+2. git checkout <Branch name> - switch branch
+3. files create or modify
+4. git add . - this adds all files in to stage
+5. git commit -m 'message'
+6. git checkout master
+7. git merge <Branch name>
+
+
+git push -u origin master - local branch send remote repo. -u : to upstrem our local repo.
+git push --set-upstream origin master
