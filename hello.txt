@@ -27,3 +27,7 @@ Developer 1
 Developer 2
 1. git clone <remote repo path>
 2. git pull
+
+create branch and swtich in one command
+1. git checkout -b <BranchName>
+
