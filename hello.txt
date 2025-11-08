@@ -29,5 +29,5 @@ Developer 2
 2. git pull
 
 create branch and swtich in one command
-1. git checkout -b <BranchName>
+1. git checkout -b <Branch Name>
 
