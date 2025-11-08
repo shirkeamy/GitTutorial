@@ -1,1 +1,6 @@
 Hello Git
+1. git status - files status
+2. git add      File stage
+3. git commit   save version
+4. git log      commit history
+5. git diff     compare changes
