@@ -31,3 +31,8 @@ Developer 2
 create branch and swtich in one command
 1. git checkout -b <Branch Name>
 
+
+
+So we have to check here how to resolve conflicts in git ticket then we have use this line in the
+similar file that we have added which is already developed by another developer
+on the same line in same file,
